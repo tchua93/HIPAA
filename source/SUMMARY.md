@@ -1,3 +1,5 @@
+# Summary
+
 * [Introduction](source/sections/01-introduction.md)
 * [HIPAA Inheritance](source/sections/02-hipaa_inheritance.md)
 * [Policy Management Policy](source/sections/03-policy_management_policy.md)
