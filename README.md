@@ -64,5 +64,5 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 * [Approved Tools Policy](source/sections/20-approved_tools_policy.md)
 * [3rd Party Policy](source/sections/21-3rd_party_policy.md)
 * [Key Definitions](source/sections/22-key_definitions.md)
-* [Insight Rx HIPAA Business Associate Agreement (“BAA”)](source/sections/23-Insight Rx_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Insight Rx Controls](source/sections/24-hipaa_mapping_to_Insight Rx_controls.md)
+* [Insight Rx HIPAA Business Associate Agreement (“BAA”)](source/sections/23-Insight_Rx_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to Insight Rx Controls](source/sections/24-hipaa_mapping_to_Insight_Rx_controls.md)
