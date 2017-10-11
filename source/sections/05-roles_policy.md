@@ -1,6 +1,6 @@
 # 5. Roles Policy
 
-Insight Rx has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
+Insight Rx has a Security Officer \[164.308\(a\)\(2\)\] and Privacy Officer \[164.308\(a\)\(2\)\] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
 
 ## 5.1 Applicable Standards
 
@@ -13,8 +13,8 @@ Insight Rx has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a
 
 ### 5.1.2 Applicable Standards from the HIPAA Security Rule
 
-* 164.308(a)(2) - Assigned Security Responsibility
-* 164.308(a)(5)(i) - Security Awareness and Training
+* 164.308\(a\)\(2\) - Assigned Security Responsibility
+* 164.308\(a\)\(5\)\(i\) - Security Awareness and Training
 
 ## 5.2 Privacy Officer
 
@@ -25,7 +25,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Insight Rx Privacy Officer is Lena Schneider ([lena@insight-rx.com](mailto:lena@insight-rx.com)).
+The current Insight Rx Privacy Officer is Lena Schneider \([lena@insight-rx.com](mailto:lena@insight-rx.com)\).
 
 ### 5.2.1 Workforce Training Responsibilities
 
@@ -46,7 +46,7 @@ The current Insight Rx Privacy Officer is Lena Schneider ([lena@insight-rx.com](
    8. Users are required to report malicious software to the Security Officer immediately;
    9. Users are required to report unauthorized attempts, uses of, and theft of Insight Rx's systems and/or workstations;
    10. Users are required to report unauthorized access to facilities
-   11. Users are required to report noted log-in discrepancies (i.e. application states users last log-in was on a date user was on vacation);
+   11. Users are required to report noted log-in discrepancies \(i.e. application states users last log-in was on a date user was on vacation\);
    12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Insight Rx Customer;
    13. Users are required to understand their role in Insight Rx's contingency plan;
    14. Users may not share their user names nor passwords with anyone;
@@ -62,9 +62,9 @@ The current Insight Rx Privacy Officer is Lena Schneider ([lena@insight-rx.com](
 
 ## 5.3 Security Officer
 
-The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Insight Rx security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
+The Security Officer is responsible for facilitating the training and supervision of all workforce members \[164.308\(a\)\(3\)\(ii\)\(A\) and 164.308\(a\)\(5\)\(ii\)\(A\)\], investigation and sanctioning of any workforce member that is in violation of Insight Rx security policies and non-compliance with the security regulations \[164.308\(a\)\(1\)\(ii\)\(c\)\], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance \[164.316\(a-b\)\].
 
-The current Insight Rx Security Officer is Ron Keizer ([ron@insight-rx.com](mailto:ron@insight-rx.com)).
+The current Insight Rx Security Officer is Ron Keizer \([ron@insight-rx.com](mailto:ron@insight-rx.com)\).
 
 ### 5.3.1 Organizational Responsibilities
 
@@ -101,14 +101,14 @@ These organizational responsibilities include, but are not limited to the follow
     * Documentation requirements.
 13. The Security Officer works with the COO to ensure that any security objectives have appropriate consideration during the budgeting process.
     * In general, security and compliance are core to Insight Rx's technology and service offerings; in most cases this means security-related objectives cannot be split out to separate budget line items.
-    * For cases that *can* be split out into discrete items, such as licenses for commercial tooling, the Security Officer follows Insight Rx's standard corporate budgeting process.
+    * For cases that _can_ be split out into discrete items, such as licenses for commercial tooling, the Security Officer follows Insight Rx's standard corporate budgeting process.
       * At the beginning of every fiscal year, the COO contacts the Security Officer to plan for the upcoming year's expenses.
       * The Security Officer works with the COO to forecast spending needs based on the previous year's level, along with changes for the upcoming year such as additional staff hires.
       * During the year, if an unforeseen security-related expense arises that was not in the budget forecast, the Security Officer works with the COO to reallocate any resources as necessary to cover this expense.
 
 ### 5.3.2 Supervision of Workforce Responsibilities
 
-Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Insight Rx's systems, applications, servers, workstations, etc. that contain ePHI.
+Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members \(i.e. team leaders, supervisors, managers, directors, co-workers, etc.\) to supervise all workforce members and any other user of Insight Rx's systems, applications, servers, workstations, etc. that contain ePHI.
 
 1. Monitor workstations and applications for unauthorized use, tampering, and theft and report non-compliance according to the Security Incident Response policy.
 2. Assist the Security and Privacy Officers to ensure appropriate role-based access is provided to all users.
@@ -125,7 +125,10 @@ All workforce members report non-compliance of Insight Rx's policies and procedu
    * Provide individuals suspected of non-compliance of the Security rule and/or Insight Rx's policies and procedures the opportunity to explain their actions.
    * The investigator thoroughly documents the investigation as the investigation occurs. This documentation must include a list of all employees involved in the violation.
 2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment. Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges. Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations.
-   * A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from Insight Rx.
-3. The Security Officer facilitates taking appropriate steps to prevent recurrence of the violation (when possible and feasible).
+   * A violation resulting in a breach of confidentiality \(i.e. release of PHI to an unauthorized individual\), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from Insight Rx.
+3. The Security Officer facilitates taking appropriate steps to prevent recurrence of the violation \(when possible and feasible\).
 4. In the case of an insider threat, the Security Officer and Privacy Officer are to set up a team to investigate and mitigate the risk of insider malicious activity. Insight Rx workforce members are encouraged to come forward with information about insider threats, and can do so anonymously.
 5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation.
+
+
+

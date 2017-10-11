@@ -34,21 +34,21 @@ Access to Insight Rx systems and application is limited for all users, including
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to Insight Rx Platform systems and applications is made formally using the following process:
-  1. The Insight Rx workforce member, or their manager, initiates the access request by creating an Issue in the JIRA Compliance Review Activity (CRA) Project.
-     * User identities must be verified prior to granting access to new accounts.
-     * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
-     * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
-  2. The Security Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
-  3. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-  4. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required. The Security Officer then grants requested access.
-     * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#7.12-password-management), which must be changed on the initial login.
-     * All password exchanges must occur over an authenticated channel.
-     * For production systems, access grants are accomplished by adding the appropriate user account to the corresponding LDAP group.
-     * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Insight Rx employee at the discretion of the Security Officer.
+   1. The Insight Rx workforce member, or their manager, initiates the access request by creating an Issue in the JIRA Compliance Review Activity \(CRA\) Project.
+      * User identities must be verified prior to granting access to new accounts.
+      * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
+      * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
+   2. The Security Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
+   3. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
+   4. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required. The Security Officer then grants requested access.
+      * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#7.12-password-management), which must be changed on the initial login.
+      * All password exchanges must occur over an authenticated channel.
+      * For production systems, access grants are accomplished by adding the appropriate user account to the corresponding LDAP group.
+      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Insight Rx employee at the discretion of the Security Officer.
 2. Access is not granted until receipt, review, and approval by the Insight Rx Security Officer;
 3. The request for access is retained for future reference.
 4. All access to Insight Rx systems and services are reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security Officer initiates the review of user access by creating an Issue in the JIRA Compliance Review Activity (CRA) Project.
+   1. The Security Officer initiates the review of user access by creating an Issue in the JIRA Compliance Review Activity \(CRA\) Project.
    2. The Security Officer, or a Privacy Officer, is assigned to review levels of access for each Insight Rx workforce member.
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
    4. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
@@ -66,7 +66,7 @@ Access to Insight Rx systems and application is limited for all users, including
 10. All application to application communication using service accounts is restricted and not permitted unless absolutely needed. Automated tools are used to limit account access across applications and systems.
 11. Generic accounts are not allowed on Insight Rx systems.
 12. Access is granted through encrypted, VPN tunnels that utilize two-factor authentication.
-    * Two-factor authentication is accomplished using a Time-based One-Time Password (TOTP) as the second factor.
+    * Two-factor authentication is accomplished using a Time-based One-Time Password \(TOTP\) as the second factor.
     * VPN connections use 256-bit AES 256 encryption, or equivalent.
     * VPN sessions are automatically disconnected after 30 minutes of inactivity.
 13. In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
@@ -95,7 +95,7 @@ Access to Insight Rx systems and application is limited for all users, including
 ## 7.6 Unique User Identification
 
 1. Access to the Insight Rx Platform systems and applications is controlled by requiring unique User Login IDs and passwords for each individual user and developer.
-2. Passwords requirements mandate strong password controls (see below).
+2. Passwords requirements mandate strong password controls \(see below\).
 3. Passwords are not displayed at any time and are not transmitted or stored in plain text.
 4. Default accounts on all production systems, including root, are disabled.
 5. Shared accounts are not allowed within Insight Rx systems or networks.
@@ -103,7 +103,7 @@ Access to Insight Rx systems and application is limited for all users, including
 
 ## 7.7 Automatic Logoff
 
-1. Users are required to make information systems inaccessible by any other individual when unattended by the users (ex. by using a password protected screen saver or logging off the system).
+1. Users are required to make information systems inaccessible by any other individual when unattended by the users \(ex. by using a password protected screen saver or logging off the system\).
 2. Information systems automatically log users off the systems after 15 minutes of inactivity.
 3. The Security Officer pre-approves exceptions to automatic log off requirements.
 
@@ -119,24 +119,24 @@ All workstations at Insight Rx are company owned, and all are laptop Apple produ
 6. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 7. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 8. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Insight Rx Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.Insight Rx.com) and have completed this training (https://training.Insight Rx.com/). Please contact us if you have problems with this - privacy@Insight Rx.com.*
+9. All workstations are to have the following messages added to the lock screen and login screen: _This computer is owned by Insight Rx Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies \(_https://policy.insight-r_x.com\) and have completed this training \(_https://training.insight-r_x.com\). Please contact us if you have problems with this - team@insight-rx.com._
 
 ## 7.9 Wireless Access Use
 
 1. Insight Rx production systems are not accessible directly over wireless channels.
 2. Wireless access is disabled on all production systems.
 3. When accessing production systems via remote wireless connections, the same system access policies and procedures apply to wireless as all other connections, including wired.
-4. Wireless networks managed within Insight Rx non-production facilities (offices, etc.) are secured with the following configurations:
+4. Wireless networks managed within Insight Rx non-production facilities \(offices, etc.\) are secured with the following configurations:
    * All data in transit over wireless is encrypted using WPA2 encryption;
    * Passwords are rotated on a regular basis, presently quarterly. This process is managed by the Insight Rx Security Officer.
 
 ## 7.10 Employee Termination Procedures
 
-1. The Human Resources Department (or other designated department), users, and their supervisors are required to notify the Security Officer upon completion and/or termination of access needs and facilitating completion of the "Termination Checklist".
-2. The Human Resources Department, users, and supervisors are required to notify the Security Officer to terminate a user's access rights if there is evidence or reason to believe the following (these incidents are also reported on an incident report and is filed with the Privacy Officer):
+1. The Human Resources Department \(or other designated department\), users, and their supervisors are required to notify the Security Officer upon completion and/or termination of access needs and facilitating completion of the "Termination Checklist".
+2. The Human Resources Department, users, and supervisors are required to notify the Security Officer to terminate a user's access rights if there is evidence or reason to believe the following \(these incidents are also reported on an incident report and is filed with the Privacy Officer\):
    * The user has been using their access rights inappropriately;
-   * A user's password has been compromised (a new password may be provided to the user if the user is not identified as the individual compromising the original password);
-   * An unauthorized individual is utilizing a user's User Login ID and password (a new password may be provided to the user if the user is not identified as providing the unauthorized individual with the User Login ID and password).
+   * A user's password has been compromised \(a new password may be provided to the user if the user is not identified as the individual compromising the original password\);
+   * An unauthorized individual is utilizing a user's User Login ID and password \(a new password may be provided to the user if the user is not identified as providing the unauthorized individual with the User Login ID and password\).
 3. The Security Officer will terminate users' access rights immediately upon notification, and will coordinate with the appropriate Insight Rx employees to terminate access to any non-production systems managed by those employees.
 4. The Security Officer audits and may terminate access of users that have not logged into organization's information systems/applications for an extended period of time.
 
@@ -156,11 +156,11 @@ Insight Rx does not use paper records for any sensitive information. Use of pape
    * where supported, modifying at least 4 characters when changing passwords;
    * account lockout after 5 invalid attempts.
 4. All system and application passwords must be stored and transmitted securely.
-   * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
+   * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function \(SHA-256 or equivalent\).
    * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17.8-production-data-security).
    * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](#17.9-transmission-security).
 5. Each information system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
-6. Passwords are inactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](#7.10-employee-termination-procedures)).
+6. Passwords are inactivated immediately upon an employee's termination \(refer to the [Employee Termination Procedures in §7.10](#7.10-employee-termination-procedures)\).
 7. All default system, application, and Partner passwords are changed before deployment to production.
 8. Upon initial login, users must change any passwords that were automatically generated for them.
 9. Password change methods must use a confirmation method to correct for user input errors.
@@ -179,7 +179,7 @@ The password-reset email inbox is used to track and store password reset request
 1. Employees may not download ePHI to any workstations used to connect to production systems.
 2. Disallowing transfer of ePHI to workstations is enforced through technical measures.
    * All production access to systems is performed through a bastion/jump host accessed through a VPN. Direct access to production systems is disallowed by Insight Rx's VPN configuration.
-   * On production Linux bastions, all file transfer services are disabled including file-transfer functionality of SSH services (SCP/SFTP).
+   * On production Linux bastions, all file transfer services are disabled including file-transfer functionality of SSH services \(SCP/SFTP\).
    * On production Windows bastions, local drive mappings are disabled by Group Policy settings.
    * Configuration settings for enforcing these technical controls are managed by Insight Rx's configuration management tooling, Chef/Salt.
 
@@ -190,3 +190,4 @@ Insight Rx grants PaaS customer secure system access via VPN connections. This a
 In the case of data migration, Insight Rx does, on a case by case basis, support customers in importing data. In these cases Insight Rx requires that all data is secured and encrypted in transit, such as by using SFTP or SCP for transferring files.
 
 In the case of an investigation, Insight Rx will assist customers, at Insight Rx's discretion, and law enforcement in forensics.
+

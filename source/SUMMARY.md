@@ -1,5 +1,6 @@
 # Summary
 
+* [Table of Contents](README.md)
 * [Introduction](./sections/01-introduction.md)
 * [HIPAA Inheritance](./sections/02-hipaa_inheritance.md)
 * [Policy Management Policy](./sections/03-policy_management_policy.md)
@@ -22,5 +23,6 @@
 * [Approved Tools Policy](./sections/20-approved_tools_policy.md)
 * [3rd Party Policy](./sections/21-3rd_party_policy.md)
 * [Key Definitions](./sections/22-key_definitions.md)
-* [Datica HIPAA Business Associate Agreement (“BAA”)](./sections/23-Insight_Rx_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Datica Controls](./sections/24-hipaa_mapping_to_Insight_Rx_controls.md)
+* [Insight Rx HIPAA Business Associate Agreement \(“BAA”\)](./sections/23-Insight_Rx_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to Insight Rx Controls](./sections/24-hipaa_mapping_to_Insight_Rx_controls.md)
+
